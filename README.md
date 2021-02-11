@@ -18,6 +18,7 @@ with GraphQL I can filter out the history list and only retrieve what is necessa
 
 Moreover, I can utilize the polling query from GraphQL.
 What polling query will do is sending a request to the server asking for the latest status code for the websites currently being monitored.
+This polling query will execute every 10 minutes.
 Every time a user adds a website, the monitoring will not start. 
 The monitoring will only start when the user clicks the start button. And then the server will run a cron job to send a request
 to the destination url at a regular interval (every 1 hour), and then when the response is received, the status code will be extracted and saved to
