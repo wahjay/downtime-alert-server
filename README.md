@@ -1,6 +1,6 @@
 # downtime-alert-server
 
-[Project spec is here.](https://www.codementor.io/projects/downtime-monitoring-with-reporting-and-alerts-atx32kb677)
+[Project spec is here.](https://www.codementor.io/projects/downtime-monitoring-with-reporting-and-alerts-atx32kb677)        
 [Frontend Repo is here.](https://github.com/wahjay/downtime-alert-client)
 
 Tech Stack:
